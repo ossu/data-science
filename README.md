@@ -74,7 +74,37 @@ Courses | Duration | Effort
 [Introduction to Python for Data Science](https://prod-edx-mktg-edit.edx.org/course/introduction-python-data-science-microsoft-dat208x-1)| 6 weeks | 2-4 hours/week
 [Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x)| 6 weeks | 3-4 hours/week
 
+### Probability and Statistics with R
+Courses | Duration | Effort
+:-- | :--: | :--:
+[Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)| - weeks | - hours/week
+[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)| - weeks | 3 hours/week
+[Statistics with R Specialization](https://www.coursera.org/specializations/statistics)| - weeks | - hours/week
+
+### Introduction to Data Science
+Courses | Duration | Effort
+:-- | :--: | :--:
+[Introduction to Data Science](https://www.coursera.org/course/datasci)| 8 weeks | 10-12 hours/week
+[Data Science - CS109 from Harvard](http://cs109.github.io/2015/)| 12 weeks | 5-6 hours/week
+[The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)| 12 weeks | 10-15 hours/week
+
+### Project
+Complete Kaggle's Getting Started and Playground Competitions
+
+### Data Science Specialization
+[Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)| - weeks | - hours/week
+
+### Convex Optimization
+### Big Data
+### Database
+### Data Mining
+### Machine Learning
+### Deep Learning
+### Data Visualization
+### Natural Language Processing
+### Capstone Project
 ### Specializations
+
 
 After finishing the courses above, start your specializations on the topics that you have more interest.
 
