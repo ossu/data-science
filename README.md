@@ -92,17 +92,45 @@ Courses | Duration | Effort
 Complete Kaggle's Getting Started and Playground Competitions
 
 ### Data Science Specialization
+Courses | Duration | Effort
+:-- | :--: | :--:
 [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)| - weeks | - hours/week
 
 ### Convex Optimization
+:-- | :--: | :--:
+[Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| - weeks | 10 hours/week
+
 ### Big Data
+:-- | :--: | :--:
+[Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apache-spark)| - weeks | 10 hours/week
+
 ### Database
+:-- | :--: | :--:
+[Stanford's Database course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| - weeks | 8-12 hours/week
+
 ### Data Mining
+:-- | :--: | :--:
+[Data Mining Specialization](https://www.coursera.org/specializations/data-mining)| - weeks | 8-12 hours/week
+
 ### Machine Learning
+:-- | :--: | :--:
+[Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)| 10 weeks | 10-20 hours/week
+[Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)| - weeks | 8-12 hours/week
+[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)| - weeks | 8-12 hours/week
+
 ### Deep Learning
-### Data Visualization
+:-- | :--: | :--:
+[Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+
 ### Natural Language Processing
+:-- | :--: | :--:
+[Natural Language Processing](https://www.coursera.org/course/nlangp)| 10 weeks | 8-10 hours/week
+
 ### Capstone Project
+- Participate in Kaggle competetion
+- List down other ideas
+
+
 ### Specializations
 
 
