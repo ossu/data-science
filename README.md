@@ -52,6 +52,18 @@ Courses | Duration | Effort
 [Applications of Linear Algebra Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1)| 5 weeks | 4 hours/week
 [Applications of Linear Algebra Part 2](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2)| 4 weeks | 5 hours/week
 
+### Single Variable Calculus
+Courses | Duration | Effort
+:-- | :--: | :--:
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x)| 13 weeks | 6-10 hours/week
+[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x)| 13 weeks | 5-10 hours/week
+[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x)| 13 weeks | 6-10 hours/week
+
+### Multivariable Calculus
+Courses | Duration | Effort
+:-- | :--: | :--:
+[MIT OCW Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)| 15 weeks | 8 hours/week
+
 
 ### Specializations
 
