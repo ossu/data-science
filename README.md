@@ -83,7 +83,7 @@ Courses | Duration | Effort
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)| - weeks | - hours/week
-[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)| - weeks | 3 hours/week
+
 
 ### Introduction to Data Science
 Courses | Duration | Effort
@@ -96,6 +96,7 @@ Courses | Duration | Effort
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)| 10 weeks | 10-20 hours/week
+[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)| - weeks | 3 hours/week
 [Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)| - weeks | 8-12 hours/week
 
 ### Project
