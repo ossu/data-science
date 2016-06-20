@@ -43,6 +43,10 @@ The second link is a MOOC that will teach you learning techniques used by expert
 - [Single Variable Calculus](#single-variable-calculus)
 - [Multivariable Calculus](#multivariable-calculus)
 - [Python](#python)
+- [Probability and Statistics with R](#probability-and-statistics-with-r)
+- [Introduction to Data Science](#introduction-to-data-science)
+- [Machine Learning](#machine-learning)
+- [Project](#project)
 
 
 ---
@@ -79,7 +83,6 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)| - weeks | - hours/week
 [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)| - weeks | 3 hours/week
-[Statistics with R Specialization](https://www.coursera.org/specializations/statistics)| - weeks | - hours/week
 
 ### Introduction to Data Science
 Courses | Duration | Effort
@@ -88,13 +91,15 @@ Courses | Duration | Effort
 [Data Science - CS109 from Harvard](http://cs109.github.io/2015/)| 12 weeks | 5-6 hours/week
 [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)| 12 weeks | 10-15 hours/week
 
+### Machine Learning
+Courses | Duration | Effort
+:-- | :--: | :--:
+[Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)| 10 weeks | 10-20 hours/week
+[Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)| - weeks | 8-12 hours/week
+
 ### Project
 Complete Kaggle's Getting Started and Playground Competitions
 
-### Data Science Specialization
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)| - weeks | - hours/week
 
 ### Convex Optimization
 Courses | Duration | Effort
@@ -104,24 +109,13 @@ Courses | Duration | Effort
 ### Big Data
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apache-spark)| - weeks | 10 hours/week
+[Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)| 4 weeks | 6 hours/week
+[Deploying a Hadoop Cluster](https://www.udacity.com/course/deploying-a-hadoop-cluster--ud1000)| 3 weeks | 6 hours/week
 
 ### Database
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Stanford's Database course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| - weeks | 8-12 hours/week
-
-### Data Mining
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Data Mining Specialization](https://www.coursera.org/specializations/data-mining)| - weeks | 8-12 hours/week
-
-### Machine Learning
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)| 10 weeks | 10-20 hours/week
-[Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)| - weeks | 8-12 hours/week
-[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)| - weeks | 8-12 hours/week
 
 ### Deep Learning
 Courses | Duration | Effort
@@ -140,8 +134,17 @@ Courses | Duration | Effort
 
 ### Specializations
 
-
 After finishing the courses above, start your specializations on the topics that you have more interest.
+
+Courses | Duration | Effort
+:-- | :--: | :--:
+[Statistics with R Specialization](https://www.coursera.org/specializations/statistics)| - weeks | - hours/week
+[Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)| - weeks | - hours/week
+[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)| - weeks | 8-12 hours/week
+[Data Mining Specialization](https://www.coursera.org/specializations/data-mining)| - weeks | 8-12 hours/week
+[Data Science and Engineering with Apache Spark XSeries](https://www.edx.org/xseries/data-science-engineering-apache-spark)| - weeks | 10 hours/week
+[Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)| - weeks | 10 hours/week
+[Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)| - weeks | 10 hours/week
 
 The following platforms currently offer specializations:
 
