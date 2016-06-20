@@ -83,6 +83,7 @@ Courses | Duration | Effort
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)| - weeks | - hours/week
+[Statistics with R Specialization](https://www.coursera.org/specializations/statistics)| - weeks | - hours/week
 
 
 ### Introduction to Data Science
@@ -140,7 +141,6 @@ After finishing the courses above, start your specializations on the topics that
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Statistics with R Specialization](https://www.coursera.org/specializations/statistics)| - weeks | - hours/week
 [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)| - weeks | - hours/week
 [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)| - weeks | 8-12 hours/week
 [Data Mining Specialization](https://www.coursera.org/specializations/data-mining)| - weeks | 8-12 hours/week
