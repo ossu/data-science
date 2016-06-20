@@ -74,7 +74,8 @@ Courses | Duration | Effort
 ### Python
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x)| 9 weeks | 6-8 hours/week
+[Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-7)| 9 weeks | 15 hours/week
+[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3)| 10 weeks | 15 hours/week
 [Introduction to Python for Data Science](https://prod-edx-mktg-edit.edx.org/course/introduction-python-data-science-microsoft-dat208x-1)| 6 weeks | 2-4 hours/week
 [Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x)| 6 weeks | 3-4 hours/week
 
