@@ -82,12 +82,11 @@ Courses | Duration | Effort
 ### Probability and Statistics with R
 Courses | Duration | Effort
 :-- | :--: | :--:
+[Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1#.U3yb762SzIo)| 16 weeks | 12 hours/week
 [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)| - weeks | - hours/week
 [Introduction to Statistics: Descriptive Statistics](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)| 5 weeks | - hours/week
 [Introduction to Statistics: Probability](https://www.edx.org/course/introduction-statistics-probability-uc-berkeleyx-stat2-2x)| 5 weeks | - hours/week
 [Introduction to Statistics: Inference](https://www.edx.org/course/introduction-statistics-inference-uc-berkeleyx-stat2-3x)| 5 weeks | - hours/week
-
-
 
 ### Introduction to Data Science
 Courses | Duration | Effort
