@@ -273,7 +273,7 @@ Join us in our [group](https://groups.google.com/forum/#!forum/open-source-socie
 
 You can also interact through [GitHub issues](https://github.com/open-source-society/data-science/issues).
 
-We also have a chat room! [![Join the chat at https://gitter.im/open-source-society/computer-science](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/open-source-society/computer-science?utm_campaign=pr-badge&utm_content=badge&utm_medium=badge&utm_source=badge)
+We also have a chat room! [![Gitter](https://badges.gitter.im/open-source-society/data-science.svg)](https://gitter.im/open-source-society/data-science)
 
 Add **Open Source Society University** to your [Facebook](https://www.facebook.com/ossuniversity) profile!
 
