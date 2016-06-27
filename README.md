@@ -15,6 +15,8 @@ In our curriculum, we give preference to MOOC (Massive Open Online Course) style
 
 To officially register for this course you must create a profile in our [web app](https://ossu.firebaseapp.com).
 
+**ps**: Currently, the web app is for tracking the progress of the [Computer Science](https://github.com/open-source-society/computer-science) path, but we are working to extend this functionality for all of our courses. Thanks for the comprehension.
+
 > **"How can I do this?"**
 
 Just create an account on GitHub and log in with this account in our web app.
