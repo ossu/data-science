@@ -47,6 +47,13 @@ The second link is a MOOC that will teach you learning techniques used by expert
 - [Introduction to Data Science](#introduction-to-data-science)
 - [Machine Learning](#machine-learning)
 - [Project](#project)
+- [Convex Optimization](#convex-optimization)
+- [Big Data](#big-data)
+- [Database](#database)
+- [Deep Learning](#deep-learning)
+- [Natural Language Processing](#natural-language-processing)
+- [Capstone Project](#capstone-project)
+- [Specializations](#specializations)
 
 
 ---
