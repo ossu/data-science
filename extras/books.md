@@ -20,7 +20,41 @@
 
 ### Python
 
-Name | Author | ISBN
+Name | Author | ISBN 
 :-- | :--: | :--:
 
 
+### Data Analysis
+
+Name | Author | ISBN 
+:-- | :--: | :--:
+
+
+### Data Visualization
+
+Name | Author | ISBN 
+:-- | :--: | :--:
+
+
+### Web Scraping
+
+Name | Author | ISBN 
+:-- | :--: | :--:
+
+
+### Databases and SQL
+
+Name | Author | ISBN 
+:-- | :--: | :--:
+
+### Statistics
+
+
+Name | Author | ISBN 
+:-- | :--: | :--:
+
+
+### Linear Algebra
+
+Name | Author | ISBN 
+:-- | :--: | :--:
