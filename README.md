@@ -142,7 +142,7 @@ Courses | Duration | Effort
 [Natural Language Processing](https://www.coursera.org/course/nlangp)| 10 weeks | 8-10 hours/week
 
 ### Capstone Project
-- Participate in Kaggle competetion
+- Participate in Kaggle competition
 - List down other ideas
 
 
