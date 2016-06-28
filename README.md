@@ -5,6 +5,20 @@
   :bar_chart: Path to a free self-taught education in <strong>Data Science</strong>!
 </p>
 
+## Contents
+
+- [About](#about)
+- [Becoming an OSS student](#becoming-an-oss-student)
+- [Motivation & Preparation](#motivation--preparation)
+- [Curriculum](#curriculum)
+- [How to use this guide](#how-to-use-this-guide)
+- [Prerequisite](#prerequisite)
+- [How to collaborate](#how-to-collaborate)
+- [Community](#community)
+- [Next Goals](#next-goals)
+- [Team](#team)
+- [References](#references)
+
 ## About
 
 This is a **solid path** for those of you who want to complete a **Data Science** course on your own time, **for free**, with courses from the **best universities** in the World.
@@ -292,8 +306,10 @@ Add **Open Source Society University** to your [Facebook](https://www.facebook.c
 
 - [Add our University page at Linkedin](https://help.linkedin.com/app/answers/detail/a_id/40128/~/adding-a-new-university-page), so in that way we will be able to add **OSS University** in our Linkedin profile.
 
+## Team
+
+* **Curriculum Founder**: [Shouvik Roy](https://github.com/royshouvik)
+* **Curriculum Maintainer**: [Shouvik Roy](https://github.com/royshouvik)
+* **Contributors**: [contributors](https://github.com/open-source-society/data-science/graphs/contributors)
+
 ## References
-
-
-- **Creator**: [Shouvik Roy](https://github.com/royshouvik)
-- **Maintainer**: [Shouvik Roy](https://github.com/royshouvik)
