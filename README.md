@@ -122,7 +122,7 @@ Courses | Duration | Effort
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)| 10 weeks | 10-20 hours/week
-[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)| - weeks | 3 hours/week
+[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| - weeks | 3 hours/week
 [Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)| - weeks | 8-12 hours/week
 
 ### Project
@@ -145,15 +145,15 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 [Stanford's Database course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| - weeks | 8-12 hours/week
 
-### Deep Learning
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| - weeks | 8-12 hours/week
-
 ### Natural Language Processing
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Natural Language Processing](https://www.coursera.org/course/nlangp)| 10 weeks | 8-10 hours/week
+
+### Deep Learning
+Courses | Duration | Effort
+:-- | :--: | :--:
+[Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| - weeks | 8-12 hours/week
 
 ### Capstone Project
 - Participate in Kaggle competition
