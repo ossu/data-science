@@ -105,7 +105,7 @@ Courses | Duration | Effort
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1#.U3yb762SzIo)| 16 weeks | 12 hours/week
-[Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)| - weeks | - hours/week
+[Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)| 12 weeks | - hours/week
 [Introduction to Statistics: Descriptive Statistics](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)| 5 weeks | - hours/week
 [Introduction to Statistics: Probability](https://www.edx.org/course/introduction-statistics-probability-uc-berkeleyx-stat2-2x)| 5 weeks | - hours/week
 [Introduction to Statistics: Inference](https://www.edx.org/course/introduction-statistics-inference-uc-berkeleyx-stat2-3x)| 5 weeks | - hours/week
@@ -122,7 +122,7 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 [Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)| 10 weeks | 10-20 hours/week
 [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| - weeks | 3 hours/week
-[Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)| - weeks | 8-12 hours/week
+[Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)| 11 weeks | 8-12 hours/week
 
 ### Project
 Complete Kaggle's Getting Started and Playground Competitions
@@ -131,7 +131,7 @@ Complete Kaggle's Getting Started and Playground Competitions
 ### Convex Optimization
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| - weeks | 10 hours/week
+[Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| 9 weeks | 10-12 hours/week
 
 ### Big Data
 Courses | Duration | Effort
@@ -152,7 +152,7 @@ Courses | Duration | Effort
 ### Deep Learning
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| - weeks | 8-12 hours/week
+[Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| 12 weeks | 8-12 hours/week
 
 ### Capstone Project
 - Participate in Kaggle competition
