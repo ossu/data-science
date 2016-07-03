@@ -69,7 +69,6 @@ The second link is a MOOC that will teach you learning techniques used by expert
 - [Deep Learning](#deep-learning)
 - [Natural Language Processing](#natural-language-processing)
 - [Capstone Project](#capstone-project)
-- [Specializations](#specializations)
 
 
 ---
@@ -159,29 +158,6 @@ Courses | Duration | Effort
 - Participate in Kaggle competition
 - List down other ideas
 
-
-### Specializations
-
-After finishing the courses above, start your specializations on the topics that you have more interest.
-
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)| - weeks | - hours/week
-[Statistics with R Specialization](https://www.coursera.org/specializations/statistics)| - weeks | - hours/week
-[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)| - weeks | 8-12 hours/week
-[Data Mining Specialization](https://www.coursera.org/specializations/data-mining)| - weeks | 8-12 hours/week
-[Data Science and Engineering with Apache Spark XSeries](https://www.edx.org/xseries/data-science-engineering-apache-spark)| - weeks | 10 hours/week
-[Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)| - weeks | 10 hours/week
-[Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)| - weeks | 10 hours/week
-
-The following platforms currently offer specializations:
-
-#### edX: [xSeries](https://www.edx.org/xseries)
-#### Coursera: [Specializations](https://www.coursera.org/specializations)
-#### Udacity: [Nanodegree](https://www.udacity.com/nanodegree)
-#### FutureLearn: [Collections](https://www.futurelearn.com/courses/collections)
-
-![keep learning](http://i.imgur.com/REQK0VU.jpg)
 
 ## How to use this guide
 
