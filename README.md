@@ -69,7 +69,6 @@ The second link is a MOOC that will teach you learning techniques used by expert
 - [Deep Learning](#deep-learning)
 - [Natural Language Processing](#natural-language-processing)
 - [Capstone Project](#capstone-project)
-- [Specializations](#specializations)
 
 
 ---
@@ -106,7 +105,7 @@ Courses | Duration | Effort
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1#.U3yb762SzIo)| 16 weeks | 12 hours/week
-[Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)| - weeks | - hours/week
+[Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)| 12 weeks | - hours/week
 [Introduction to Statistics: Descriptive Statistics](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)| 5 weeks | - hours/week
 [Introduction to Statistics: Probability](https://www.edx.org/course/introduction-statistics-probability-uc-berkeleyx-stat2-2x)| 5 weeks | - hours/week
 [Introduction to Statistics: Inference](https://www.edx.org/course/introduction-statistics-inference-uc-berkeleyx-stat2-3x)| 5 weeks | - hours/week
@@ -123,7 +122,7 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 [Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)| 10 weeks | 10-20 hours/week
 [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| - weeks | 3 hours/week
-[Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)| - weeks | 8-12 hours/week
+[Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)| 11 weeks | 8-12 hours/week
 
 ### Project
 Complete Kaggle's Getting Started and Playground Competitions
@@ -132,7 +131,7 @@ Complete Kaggle's Getting Started and Playground Competitions
 ### Convex Optimization
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| - weeks | 10 hours/week
+[Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| 9 weeks | 10-12 hours/week
 
 ### Big Data
 Courses | Duration | Effort
@@ -153,35 +152,12 @@ Courses | Duration | Effort
 ### Deep Learning
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| - weeks | 8-12 hours/week
+[Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| 12 weeks | 8-12 hours/week
 
 ### Capstone Project
 - Participate in Kaggle competition
 - List down other ideas
 
-
-### Specializations
-
-After finishing the courses above, start your specializations on the topics that you have more interest.
-
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)| - weeks | - hours/week
-[Statistics with R Specialization](https://www.coursera.org/specializations/statistics)| - weeks | - hours/week
-[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)| - weeks | 8-12 hours/week
-[Data Mining Specialization](https://www.coursera.org/specializations/data-mining)| - weeks | 8-12 hours/week
-[Data Science and Engineering with Apache Spark XSeries](https://www.edx.org/xseries/data-science-engineering-apache-spark)| - weeks | 10 hours/week
-[Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)| - weeks | 10 hours/week
-[Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)| - weeks | 10 hours/week
-
-The following platforms currently offer specializations:
-
-#### edX: [xSeries](https://www.edx.org/xseries)
-#### Coursera: [Specializations](https://www.coursera.org/specializations)
-#### Udacity: [Nanodegree](https://www.udacity.com/nanodegree)
-#### FutureLearn: [Collections](https://www.futurelearn.com/courses/collections)
-
-![keep learning](http://i.imgur.com/REQK0VU.jpg)
 
 ## How to use this guide
 
