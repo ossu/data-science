@@ -244,7 +244,7 @@ Here are some tips about how you can do that:
 
 ### Which programming languages should I use?
 
-TODO: Python and R are heavily used in Data Science
+Python and R are heavily used in Data Science community and our courses teach you both, but...
 
 The **important** thing for each course is to **internalize** the **core concepts** and to be able to use them with whatever tool (programming language) that you wish.
 
