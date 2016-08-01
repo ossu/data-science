@@ -44,5 +44,7 @@ Course | Duration | Effort
 #### Data Science Specialization
 Course | Duration | Effort
 :-- | :--: | :--: 
+[Data Science at Scale](https://www.coursera.org/specializations/data-science)| 17 weeks | 6-8 hours/week
+[Data Science](https://www.coursera.org/specializations/jhu-data-science) | - weeks | 4-9 hours/week
 
 ### FutureLearn
