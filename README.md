@@ -173,7 +173,7 @@ You can view a list of available specializations [here](https://github.com/open-
 
 This guide was developed to be consumed in a linear approach. What does this mean? That you should complete one course at a time.
 
-The courses are **already** in the order that you should complete them. Just start in the [Introduction to Computer Science](#introduction-to-computer-science) section and after finishing the first course, start the next one.
+The courses are **already** in the order that you should complete them. Just start in the [Linear Algebra](#linear-algebra) section and after finishing the first course, start the next one.
 
 **If the course isn't open, do it anyway with the resources from the previous class.**
 
