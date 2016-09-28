@@ -132,7 +132,7 @@ Complete Kaggle's Getting Started and Playground Competitions
 ### Convex Optimization
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| - weeks | 10 hours/week
+[Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| 9 weeks | 10 hours/week
 
 ### Big Data
 Courses | Duration | Effort
@@ -153,7 +153,7 @@ Courses | Duration | Effort
 ### Deep Learning
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| - weeks | 8-12 hours/week
+[Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| 12 weeks | 8-12 hours/week
 
 ### Capstone Project
 - Participate in Kaggle competition
