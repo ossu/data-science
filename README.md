@@ -3,7 +3,9 @@
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
   :bar_chart: Path to a free self-taught education in <strong>Data Science</strong>!
+  <a href="https://github.com/open-source-society/data-science"><img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg"></a>
 </p>
+
 
 ## Contents
 
