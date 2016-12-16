@@ -12,6 +12,7 @@
  * [Machine Learning Specialization](#machine-learning-specialization)
  * [Data Science Specialization](#data-science-specialization)
 * [FutureLearn](#futurelearn)
+* [Springboard](#springboard)
 
 ---
 
@@ -59,3 +60,10 @@ Course | Duration | Effort
 Course | Duration | Effort
 :-- | :--: | :--: 
 [Big Data Analytics](https://www.futurelearn.com/programs/big-data-analytics)| 8 weeks | - hours/week
+
+#### Springboard 
+Foundations of Data Science
+Course | Duration | Effort
+:-- | :--: | :--: 
+[Foundations of Data Science](https://www.futurelearn.com/programs/big-data-analytics)| 8 weeks | 15 hours/week
+[Data Science Intensive](https://www.springboard.com/workshops/data-science-intensive)| 8 weeks | 15 hours/week
