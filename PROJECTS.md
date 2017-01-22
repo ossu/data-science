@@ -17,7 +17,7 @@ Project Title | Description | Authors | Repository
 ### Single Variable Calculus
 Project Title | Description | Authors | Repository
 :-- | :-- | :--: | :--
-| | |
+| slope-field | Slope-field generation written in Haskell | Mahdi Dibaiee | https://github.com/mdibaiee/slope-field
 
 ### Multivariable Calculus
 Project Title | Description | Authors | Repository
