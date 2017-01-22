@@ -123,7 +123,7 @@ Courses | Duration | Effort
 ### Machine Learning
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)| 10 weeks | 10-20 hours/week
+[Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)    [[caltech]](http://work.caltech.edu/lectures.html) | 10 weeks | 10-20 hours/week
 [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| - weeks | 3 hours/week
 [Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)| - weeks | 8-12 hours/week
 
