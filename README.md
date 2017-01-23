@@ -66,6 +66,7 @@ The second link is a MOOC that will teach you learning techniques used by expert
 - [Machine Learning](#machine-learning)
 - [Project](#project)
 - [Convex Optimization](#convex-optimization)
+- [Data Wrangling](#data-wrangling)
 - [Big Data](#big-data)
 - [Database](#database)
 - [Deep Learning](#deep-learning)
@@ -135,6 +136,11 @@ Complete Kaggle's Getting Started and Playground Competitions
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| 9 weeks | 10 hours/week
+
+### Data Wrangling
+Courses | Duration | Effort
+:-- | :--: | :--:
+[Data Wrangling with MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032)| 8 weeks | 10 hours/week
 
 ### Big Data
 Courses | Duration | Effort
