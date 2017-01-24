@@ -150,7 +150,7 @@ Courses | Duration | Effort
 ### Natural Language Processing
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Natural Language Processing](https://www.coursera.org/course/nlangp)| 10 weeks | 8-10 hours/week
+[Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)| - weeks | - hours/week
 
 ### Deep Learning
 Courses | Duration | Effort
