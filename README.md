@@ -53,6 +53,15 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
+## Self Learning vs Mentor Guided Program
+
+We believe that anyone with the right determination and dedication can teach themselves to be a Data Scientist. However, self learning often has it's own challenges and demands a lot of time and descipline from the student. Some of us need a little push now and then to stay on track and make progress. If you can afford an 1:1 Expert Mentor guided program, we recommend:
+
+<a href="https://www.springboard.com/workshops/data-science-career-track?afmc=2a"><img height=300 width = 400 src="https://leaddyno-client-images.s3.amazonaws.com/afbe6caa5b7d592468b53a977ecbfc7c80d83a01/c6bf60ce3541e34486f6de6486f4d65bc794798c_GitHub%20-%20Springboard%20banner%202%402x.png"/></a>
+
+- [Data Science Career Track](https://www.springboard.com/workshops/data-science-career-track?afmc=2a)
+- [Foundations of Data Science](https://www.springboard.com/workshops/data-science?afmc=29)
+
 **Are you ready to get started?**
 
 ## Curriculum
