@@ -23,6 +23,8 @@
 
 ## About
 
+[![Join the chat at https://gitter.im/open-source-society/data-science](https://badges.gitter.im/open-source-society/data-science.svg)](https://gitter.im/open-source-society/data-science?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a **solid path** for those of you who want to complete a **Data Science** course on your own time, **for free**, with courses from the **best universities** in the World.
 
 In our curriculum, we give preference to MOOC (Massive Open Online Course) style courses because these courses were created with our style of learning in mind.
