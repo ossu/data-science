@@ -3,8 +3,8 @@
 ## Courses
 
 - [Statistics](#statistics)
-- [Python and Data Science](#Python and Data Science)
-- [Machine Learning and Artificial Intelligence](#Machine Learning and Artificial Intelligence)
+- [Python and Data Science](#pythonanddatascience)
+- [Machine Learning and Artificial Intelligence](#machinelearningandartificialintelligence)
 
 
 ---
