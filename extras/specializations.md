@@ -5,6 +5,7 @@
 * [Udacity](#udacity)
   * [Machine Learning Nanodegree by Google](#machine-learning-nanodegree-by-google) 
   * [Data Scientist Nanodegree](#data-scientist-nanodegree)
+  * [Deep Learning Nanodegree](#deep-learning-nanodegree) 
 * [edX](#edx)
   * [Data Science and Engineering with Apache Spark](#data-science-and-engineering-with-apache-spark)
 * [Coursera](#coursera)
@@ -26,6 +27,12 @@ Course | Duration | Effort
 Course | Duration | Effort
 :-- | :--: | :--: 
 [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)| - weeks | 10 hours/week
+
+### Deep Learning Nanodegree
+Course | Duration | Effort 
+:-- | :--: | :--:
+[Deep Learning Foundation Nanodegree](https://in.udacity.com/course/deep-learning-nanodegree-foundation--nd101/) | 6 months | 12 hours/week
+
 
 ### edX
 
