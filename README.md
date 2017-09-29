@@ -61,7 +61,7 @@ The second link is a MOOC that will teach you learning techniques used by expert
 - [Single Variable Calculus](#single-variable-calculus)
 - [Multivariable Calculus](#multivariable-calculus)
 - [Python](#python)
-- [Probability and Statistics with R](#probability-and-statistics-with-r)
+- [Probability and Statistics](#probability-and-statistics)
 - [Introduction to Data Science](#introduction-to-data-science)
 - [Machine Learning](#machine-learning)
 - [Project](#project)
