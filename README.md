@@ -22,6 +22,7 @@
 - [How to use this guide](#how-to-use-this-guide)
 - [Prerequisite](#prerequisite)
 - [How to collaborate](#how-to-collaborate)
+- [Code of conduct](#code-of-conduct)
 - [Community](#community)
 - [Next Goals](#next-goals)
 - [Team](#team)
@@ -286,19 +287,20 @@ The **extras** section is a place where all of us will be able to submit interes
 
 **Let's do it together! =)**
 
+## Code of Conduct
+[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
+
 ## Community
 
-Subscribe to our [newsletter](https://tinyletter.com/ossu)
+Subscribe to our [newsletter](https://tinyletter.com/ossu).
 
-Subscribe to [/r/opensourcesociety](https://www.reddit.com/r/opensourcesociety/)!
-
-Join us in our [group](https://groups.google.com/forum/#!forum/open-source-society-university)!
+Use our [forum](https://github.com/ossu/forum) if you need some help.
 
 You can also interact through [GitHub issues](https://github.com/open-source-society/data-science/issues).
 
 We also have a chat room! [![Gitter](https://badges.gitter.im/open-source-society/data-science.svg)](https://gitter.im/open-source-society/data-science)
 
-Add **Open Source Society University** to your [Facebook](https://www.facebook.com/ossuniversity) profile!
+Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) and [Facebook](https://www.facebook.com/ossuniversity) profile!
 
 > **ps**: A forum is an ideal way to interact with other students as we do not lose important discussions, which usually occur in communication via chat apps. **Please use our subreddit/group for important discussions**.
 
