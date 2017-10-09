@@ -288,6 +288,8 @@ The **extras** section is a place where all of us will be able to submit interes
 
 ## Community
 
+Subscribe to our [newsletter](https://tinyletter.com/ossu)
+
 Subscribe to [/r/opensourcesociety](https://www.reddit.com/r/opensourcesociety/)!
 
 Join us in our [group](https://groups.google.com/forum/#!forum/open-source-society-university)!
