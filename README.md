@@ -16,7 +16,6 @@
 ## Contents
 
 - [About](#about)
-- [Becoming an OSS student](#becoming-an-oss-student)
 - [Motivation & Preparation](#motivation--preparation)
 - [Curriculum](#curriculum)
 - [How to use this guide](#how-to-use-this-guide)
@@ -33,20 +32,6 @@
 This is a **solid path** for those of you who want to complete a **Data Science** course on your own time, **for free**, with courses from the **best universities** in the World.
 
 In our curriculum, we give preference to MOOC (Massive Open Online Course) style courses because these courses were created with our style of learning in mind.
-
-## Becoming an OSS student
-
-To officially register for this course you must create a profile in our [web app](https://ossu.firebaseapp.com).
-
-**ps**: Currently, the web app is for tracking the progress of the [Computer Science](https://github.com/open-source-society/computer-science) path, but we are working to extend this functionality for all of our courses. Thanks for the comprehension.
-
-> **"How can I do this?"**
-
-Just create an account on GitHub and log in with this account in our web app.
-
-The intention of this app is to offer for our students a way to track their progress, and also the ability to show their progress through a public page for friends, family, employers, etc.
-
-In the "My Progress" tab, you are able to edit the status of the courses that you are taking, and also add the link of your final project for each one.
 
 ## Motivation & Preparation
 
