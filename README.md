@@ -1,9 +1,15 @@
-![Open Source Society logo](https://camo.githubusercontent.com/59e7dd8486d5cb6facd776f0f96395be6f41cc5a/687474703a2f2f692e696d6775722e636f6d2f476a456267494a2e706e67)
+![Open Source Society logo](http://i.imgur.com/kYYCXtC.png)
 
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
   :bar_chart: Path to a free self-taught education in <strong>Data Science</strong>!
-  <a href="https://github.com/open-source-society/data-science"><img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg"></a>
+  <br><br>
+  <a href="https://github.com/open-source-society/data-science">
+    <img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg">
+  </a>
+  <a href="https://www.patreon.com/ossu">
+	  <img alt="Contribute with OSSU on Patreon" src="https://img.shields.io/badge/Patreon-contribute-yellow.svg">
+  </a>
 </p>
 
 
@@ -16,6 +22,7 @@
 - [How to use this guide](#how-to-use-this-guide)
 - [Prerequisite](#prerequisite)
 - [How to collaborate](#how-to-collaborate)
+- [Code of conduct](#code-of-conduct)
 - [Community](#community)
 - [Next Goals](#next-goals)
 - [Team](#team)
@@ -53,15 +60,6 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
-## Self Learning vs Mentor Guided Program
-
-We believe that anyone with the right determination and dedication can teach themselves to be a Data Scientist. However, self learning can be difficult and often has it's own challenges. It demands a lot of time and self-descipline from the student. Also, some of us need a little push now and then to stay on track and make progress. If you can afford a 1:1 Expert Mentor guided program, we recommend:
-
-<a href="https://www.springboard.com/workshops/data-science-career-track?afmc=2a"><img height=420 width=800 src="/GitHub%20-%20Springboard%20banner%202%402x.png"/></a>
-
-- [Data Science Career Track](https://www.springboard.com/workshops/data-science-career-track?afmc=2a)
-- [Foundations of Data Science](https://www.springboard.com/workshops/data-science?afmc=29)
-
 **Are you ready to get started?**
 
 ## Curriculum
@@ -70,7 +68,7 @@ We believe that anyone with the right determination and dedication can teach the
 - [Single Variable Calculus](#single-variable-calculus)
 - [Multivariable Calculus](#multivariable-calculus)
 - [Python](#python)
-- [Probability and Statistics with R](#probability-and-statistics)
+- [Probability and Statistics](#probability-and-statistics)
 - [Introduction to Data Science](#introduction-to-data-science)
 - [Machine Learning](#machine-learning)
 - [Project](#project)
@@ -289,19 +287,22 @@ The **extras** section is a place where all of us will be able to submit interes
 
 **Let's do it together! =)**
 
+## Code of Conduct
+[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
+
 ## Community
 
-Subscribe to [/r/opensourcesociety](https://www.reddit.com/r/opensourcesociety/)!
+Subscribe to our [newsletter](https://tinyletter.com/ossu).
 
-Join us in our [group](https://groups.google.com/forum/#!forum/open-source-society-university)!
+Use our [forum](https://github.com/ossu/forum) if you need some help.
 
 You can also interact through [GitHub issues](https://github.com/open-source-society/data-science/issues).
 
 We also have a chat room! [![Gitter](https://badges.gitter.im/open-source-society/data-science.svg)](https://gitter.im/open-source-society/data-science)
 
-Add **Open Source Society University** to your [Facebook](https://www.facebook.com/ossuniversity) profile!
+Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) and [Facebook](https://www.facebook.com/ossuniversity) profile!
 
-> **ps**: A forum is an ideal way to interact with other students as we do not lose important discussions, which usually occur in communication via chat apps. **Please use our subreddit/group for important discussions**.
+> **ps**: A forum is an ideal way to interact with other students as we do not lose important discussions, which usually occur in communication via chat apps. **Please use our forum for important discussions**.
 
 ## Next Goals
 
