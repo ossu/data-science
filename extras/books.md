@@ -57,4 +57,18 @@ Name | Author | ISBN
 ### Linear Algebra
 
 Name | Author | ISBN 
-:-- | :--: | :--:
+
+Introduction to Linear Algebra |Gilbert Strang |978-09802327-7-6
+
+
+### Machine learning
+
+Name | Author | ISBN
+
+Pattern Recognition and Machine Learning | Christopher M. Bishop |9781493938438
+
+The Elements of Statistical Learning |Trevor Hastie , Robert Tibshirani , Jerome Friedman |9780387848570
+
+Pattern Classification |  Richard O. Duda , Peter E. Hart , David G. Stork |  9780471056690
+
+An Introduction to Statistical Learning | Gareth James , Daniela Witten , Trevor Hastie , Robert Tibshirani | 9781461471370
