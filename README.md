@@ -135,7 +135,7 @@ If you want to suggest a new resource, send a pull request adding such resource 
 
 ## Community
 
-We have a [Gitter chat room](https://gitter.im/open-source-society/data-science). Drop in and say hello!
+We have a discord server! This should be your first stop to talk with other OSSU students. [Why don't you introduce yourself right now?](https://discord.gg/5pUhfpX)
 
 Subscribe to our [newsletter](https://tinyletter.com/ossu).
 
