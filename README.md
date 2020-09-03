@@ -58,7 +58,8 @@ OSSU Data Science uses the report [Curriculum Guidelines for Undergraduate Progr
 [Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
 
 ### Introduction to Computer Science
-Students who already know basic programming in any language can skip this course
+_Students who already know basic programming in any language can skip this first course_
+
 [Python for Everybody](https://www.py4e.com/) 
 
 [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-7)
@@ -66,6 +67,10 @@ Students who already know basic programming in any language can skip this course
 [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3)
 
 ### Data Structures and Algorithms
+_The Algorithms courses are taught in Java. If students need to learn Java, they should take this course first_
+
+[Java Programming](https://java-programming.mooc.fi/)
+
 [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 
 [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
