@@ -42,21 +42,6 @@ OSSU Data Science uses the report [Curriculum Guidelines for Undergraduate Progr
 ### Introduction to Data Science
 [What is Data Science](https://www.coursera.org/learn/what-is-datascience)
 
-### Single Variable Calculus
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x)
-
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x)
-
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x)
-
-### Linear Algebra
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-
-[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
-
-### Multivariable Calculus
-[Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
-
 ### Introduction to Computer Science
 _Students who already know basic programming in any language can skip this first course_
 
@@ -87,6 +72,21 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 [Design and Build a Data Warehouse for Business Intelligence Implementation](https://www.coursera.org/learn/data-warehouse-bi-building)
 
 [MongoDB for Developers Learning Path](https://university.mongodb.com/learning_paths/developer)
+
+### Single Variable Calculus
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x)
+
+[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x)
+
+[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x)
+
+### Linear Algebra
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+
+### Multivariable Calculus
+[Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
 
 ### Statistics & Probability
 [Introduction to Probability](https://projects.iq.harvard.edu/stat110/home)
