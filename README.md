@@ -111,7 +111,7 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [Process Mining](https://www.coursera.org/learn/process-mining)
 
-[Machine Learning Crash Course] (https://developers.google.com/machine-learning/crash-course)
+[Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 
 [Complete Machine Learning Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
 
