@@ -111,6 +111,18 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [Process Mining](https://www.coursera.org/learn/process-mining)
 
+[Machine Learning Crash Course] (https://developers.google.com/machine-learning/crash-course)
+
+[Complete Machine Learning Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
+
+[Time Series Analysis](https://www.youtube.com/watch?v=DeORzP0go5I&list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3)
+
+### Deep Learning
+[Complete Deep Learning Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
+
+[Deep Learning A-Z Hands-On Artificial Neural Networks](https://www.udemy.com/course/deeplearning/)
+
+
 ## How to use this guide
 
 ### Order of the classes
