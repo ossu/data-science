@@ -142,7 +142,7 @@ If you want to suggest a new resource, send a pull request adding such resource 
 
 We have a discord server! This should be your first stop to talk with other OSSU students. [Why don't you introduce yourself right now?](https://discord.gg/5pUhfpX)
 
-Subscribe to our [newsletter](https://tinyletter.com/ossu).
+Subscribe to our [newsletter](https://tinyletter.com/OpenSourceSocietyUniversity).
 
 You can also interact through [GitHub issues](https://github.com/open-source-society/data-science/issues).
 
