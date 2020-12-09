@@ -113,6 +113,9 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 ## How to use this guide
 
+### Duration
+It is possible to finish within about 2 years if you plan carefully and devote roughly 20 hours/week to your studies. Learners can use [this spreadsheet](https://docs.google.com/spreadsheets/d/1TEGSUQDFuWL3TYNjiM8G3esly-tKOcgHSDABt92mzdA/edit?usp=sharing) to estimate their end date. If you make a personal copy you can enter your actual course completion dates in the Curriculum Data sheet and get updated completion estimates.
+
 ### Order of the classes
 
 Some courses can be taken in parallel, while others must be taken sequentially. All of the courses within a topic should be taken in the order listed in the curriculum. The graph below demonstrates how topics should be ordered.
