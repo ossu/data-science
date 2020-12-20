@@ -122,6 +122,14 @@ Some courses can be taken in parallel, while others must be taken sequentially. 
 
 ![Topic Progression Graph](topic_progression_graph.jpg)
 
+### Track your progress
+
+1. Create an account in [Trello](https://trello.com/).
+1. Copy [this](https://trello.com/b/JpvLwQfr/ossu-data-science) board to your personal account.
+See how to copy a board [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
+
+Now you just need to pass the cards to the `Doing` column or `Done` column as you progress in your study.
+
 ### Which programming languages should I use?
 
 Python and R are heavily used in Data Science community and our courses teach you both. Remember, the important thing for each course is to internalize the core concepts and to be able to use them with whatever tool (programming language) that you wish.
