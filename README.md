@@ -151,7 +151,7 @@ If you want to suggest a new resource, send a pull request adding such resource 
 
 ## Community
 
-We have a discord server! This should be your first stop to talk with other OSSU students. [Why don't you introduce yourself right now?](https://discord.gg/5pUhfpX)
+We have a discord server! This should be your first stop to talk with other OSSU students. [Why don't you introduce yourself right now?](https://discord.gg/wuytwK5s9h)
 
 Subscribe to our [newsletter](https://tinyletter.com/OpenSourceSocietyUniversity).
 
