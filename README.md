@@ -19,7 +19,7 @@
 - [Curricular Guideline](#curricular-guideline)
 - [Curriculum](#curriculum)
 - [How to use this guide](#how-to-use-this-guide)
-- [Prerequisite](#prerequisite)
+- [Prerequisites](#prerequisites)
 - [How to contribute](#how-to-contribute)
 - [Code of conduct](#code-of-conduct)
 - [Community](#community)
@@ -138,6 +138,10 @@ Python and R are heavily used in Data Science community and our courses teach yo
 
 You must share only files that you are allowed. **Do NOT disrespect the code of conduct** that you sign in the beginning of your courses.
 
+## Prerequisites
+
+The Data Science curriculum assumes the student has taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) and [statistics](https://www.khanacademy.org/math/probability).
+
 ## How to contribute
 
 You can [open an issue](https://help.github.com/articles/creating-an-issue/) and give us your suggestions as to how we can improve this guide, or what we can do to improve the learning experience.
@@ -151,7 +155,7 @@ If you want to suggest a new resource, send a pull request adding such resource 
 
 ## Community
 
-We have a discord server! This should be your first stop to talk with other OSSU students. [Why don't you introduce yourself right now?](https://discord.gg/wuytwK5s9h)
+We have a Discord server! This should be your first stop to talk with other OSSU students. [Why don't you introduce yourself right now?](https://discord.gg/wuytwK5s9h)
 
 Subscribe to our [newsletter](https://tinyletter.com/OpenSourceSocietyUniversity).
 
