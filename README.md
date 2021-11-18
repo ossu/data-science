@@ -29,21 +29,26 @@
 - [Data Science Tools & Methods](#data-science-tools--methods)
 - [Machine Learning/Data Mining](#machine-learningdata-mining)
 
+
 # About
 
 This is a path for those of you who want to complete the Data Science undergraduate curriculum on your own time, **for free**, with courses from the **best universities** in the World.
 
 In our curriculum, we give preference to MOOC (Massive Open Online Course) style courses because these courses were created with our style of learning in mind.
 
+
 # Curricular Guideline
 
 OSSU Data Science uses the report [Curriculum Guidelines for Undergraduate Programs in Data Science](https://www.amstat.org/asa/files/pdfs/EDU-DataScienceGuidelines.pdf) as our guide for course recommendation.
 
+
 # Curriculum
+
 
 ## Prerequisites
 
 The Data Science curriculum assumes the student has taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) and [statistics](https://www.khanacademy.org/math/probability).
+
 
 ## Intro to Data Science
 
@@ -54,6 +59,7 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [What is Data Science](https://www.coursera.org/learn/what-is-datascience) | 1 weeks | 8 hours/week | none | [chat]()
+
 
 ## Intro CS
 
@@ -101,6 +107,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | 4 weeks | 5-6 hours/week | Basic knowladge in any languge | [chat]()
 
 
+
 ## Databases
 Understanding theory is important, but you will also be expected to create programs. There are a number of tools that are widely used to make that process easier. Learn them now to ease your future work writing programs.
 
@@ -121,6 +128,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Relational Database Support for Data Warehouses](https://www.coursera.org/learn/dwrelational?specialization=data-warehousing) | 1.5 weeks | 15 hours/week | - | [chat]()
 [Business Intelligence Concepts, Tools, and Applications](https://www.coursera.org/learn/database-management) | 1.5 weeks | 15 hours/week | - | [chat]()
 [Design and Build a Data Warehouse for Business Intelligence Implementation](https://www.coursera.org/learn/database-management) | 1 week | 13 hours/week | - | [chat]()
+
 
 ## Core Math
 Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
@@ -166,6 +174,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | 8 weeks | 10 hours/week | - | 
 [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) | 8 weeks | 10 hours/week | - | 
 
+
 ## Data Science Tools & Methods
 What are some of the most popular data science tools, how do you use them, and what are their features?, and How to share a methodology that can be used within data science, to ensure that the data used in problem solving is relevant and properly manipulated to address the question at hand.
 
@@ -184,6 +193,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science) | 1 week | 18 hours/week | - | 
 [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology) | 1 week | 8 hours/week | - | 
 [Data Science: Wrangling](https://www.edx.org/course/data-science-wrangling) | 1 week | 15 hours/week | - | 
+
 
 ## Machine Learning/Data Mining
 Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. this courses will cover introduction to machine learning, datamining, statistical pattern recognition and text Mining of Massive Datasets.
@@ -206,10 +216,13 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Process Mining](link) | 4 weeks | 7-9 hours/week | - | 
 
 
+
 # How to use this guide
+
 
 ### Duration
 It is possible to finish within about 2 years if you plan carefully and devote roughly 20 hours/week to your studies. 
+
 
 ### Order of the classes
 
@@ -218,13 +231,16 @@ Some courses can be taken in parallel, while others must be taken sequentially. 
 ![Topic Progression Graph](topic_progression_graph.jpg)
 
 
+
 ### Which programming languages should I use?
 
 Python and R are heavily used in Data Science community and our courses teach you both. Remember, the important thing for each course is to internalize the core concepts and to be able to use them with whatever tool (programming language) that you wish.
 
+
 ### Content Policy
 
 You must share only files that you are allowed. **Do NOT disrespect the code of conduct** that you sign in the beginning of your courses.
+
 
 ## How to contribute
 
@@ -234,8 +250,11 @@ You can also [fork this project](https://help.github.com/articles/fork-a-repo/) 
 
 If you want to suggest a new resource, send a pull request adding such resource to the [extras](https://github.com/open-source-society/data-science/tree/master/extras) section. The **extras** section is a place where all of us will be able to submit interesting additional articles, books, courses and specializations.
 
+
 ## Code of Conduct
+
 [OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
+
 
 ## Community
 
@@ -246,6 +265,7 @@ Subscribe to our [newsletter](https://tinyletter.com/OpenSourceSocietyUniversity
 You can also interact through [GitHub issues](https://github.com/open-source-society/data-science/issues).
 
 Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) and [Facebook](https://www.facebook.com/ossuniversity) profile!
+
 
 ## Team
 
