@@ -104,7 +104,7 @@ The Algorithms courses aren't languge based, you can use any languge you want.
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | 4 weeks | 5-6 hours/week | Basic knowladge in any languge | [chat]()
+[Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds3/index.html) | 4 weeks | 5-6 hours/week | Basic knowladge in Python3 | [chat]()
 
 
 
