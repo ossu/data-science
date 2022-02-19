@@ -102,9 +102,9 @@ The Algorithms courses aren't languge based, you can use any languge you want.
 `Data Structure`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion
+Courses | Duration | Effort | Prerequisites | Notes
 :-- | :--: | :--: | :--: | :--:
-[Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds3/index.html) | 4 weeks | 5-6 hours/week | Basic knowladge in Python3 | [chat]()
+[Grokking Algorithms: An Illustrated Guide for Programmers](https://www.manning.com/books/grokking-algorithms) | 4 weeks | 5-6 hours/week | Basic knowladge in Python3 | Paid
 
 
 
