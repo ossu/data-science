@@ -44,9 +44,9 @@ _Students who already know basic programming in any language can skip this first
 
 [Python for Everybody](https://www.py4e.com/) 
 
-[Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-7)
+[Introduction to Computer Science and Programming Using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
-[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3)
+[Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
 ### Data Structures and Algorithms
 _The Algorithms courses are taught in Java. If students need to learn Java, they should take this course first_
