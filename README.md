@@ -71,11 +71,11 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 [MongoDB for Developers Learning Path](https://university.mongodb.com/learning_paths/developer)
 
 ### Single Variable Calculus
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x)
+[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about)
 
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x)
+[Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about)
 
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x)
+[Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)
 
 ### Linear Algebra
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
