@@ -90,6 +90,8 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
+[Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/data-analysis-statistics/stanford-university-statistical-learning-with-python) or [Statistical Learning With R by Stanford University on EdX](https://www.edx.org/learn/statistics/stanford-university-statistical-learning)
+
 ### Data Science Tools & Methods
 [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)
 
