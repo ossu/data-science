@@ -40,7 +40,7 @@ OSSU Data Science uses the report [Curriculum Guidelines for Undergraduate Progr
 ### Introduction to Computer Science
 _Students who already know basic programming in any language can skip this first course_
 
-[Python for Everybody](https://www.py4e.com/) 
+[Introduction to programming](coursepages/intro-programming/README.md)
 
 [Introduction to Computer Science and Programming Using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
