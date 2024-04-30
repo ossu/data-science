@@ -52,9 +52,13 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [Java Programming](https://java-programming.mooc.fi/)
 
-[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+[CS 1332x I](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues)
 
-[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+[CS 1332x II](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-ii-binary-trees-heaps-skiplists-and-hashmaps)
+
+[CS 1332x III](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-iii-avl-and-2-4-trees-divide-and-conquer-algorithms)
+
+[CS 1332x IV](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-iv-pattern-matching-dijkstras-mst-and-dynamic-programming-algorithms)
 
 ### Databases
 [Database Management Essentials](https://www.coursera.org/learn/database-management)
