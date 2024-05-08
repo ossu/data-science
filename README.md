@@ -43,7 +43,7 @@ _Students who already know basic programming in any language can skip this first
 
 [Introduction to programming](coursepages/intro-programming/README.md)
 
-[Introduction to Computer Science and Programming Using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+[Introduction to Computer Science and Programming Using Python](coursepages/intro-cs/README.md)
 
 [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
