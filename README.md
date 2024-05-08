@@ -118,6 +118,8 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 ### Duration
 It is possible to finish within about 2 years if you plan carefully and devote roughly 20 hours/week to your studies. Learners can use [this spreadsheet](https://docs.google.com/spreadsheets/d/1TEGSUQDFuWL3TYNjiM8G3esly-tKOcgHSDABt92mzdA/copy) to estimate their end date. Make a copy and input your start date and expected hours per week in the `Timeline` sheet. As you work through courses you can enter your actual course completion dates in the Curriculum Data sheet and get updated completion estimates.
 
+> **Warning:** While the spreadsheet is a useful tool to estimate the time you need to complete this curriculum, it may not be up-to-date with the curriculum. Use the spreadsheet just to estimate the time you need. Use the [the GitHub repo](https://github.com/ossu/data-science) to see what courses to do.
+
 ### Order of the classes
 
 Some courses can be taken in parallel, while others must be taken sequentially. All of the courses within a topic should be taken in the order listed in the curriculum. The graph below demonstrates how topics should be ordered.
@@ -126,11 +128,7 @@ Some courses can be taken in parallel, while others must be taken sequentially. 
 
 ### Track your progress
 
-1. Create an account in [Trello](https://trello.com/).
-1. Copy [this](https://trello.com/b/JpvLwQfr/ossu-data-science) board to your personal account.
-See how to copy a board [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
-
-Now you just need to pass the cards to the `Doing` column or `Done` column as you progress in your study.
+[Fork](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/) the [GitHub repo](https://github.com/ossu/data-science) into your own GitHub account and put ✅ next to the stuff you've completed as you complete it. This can serve as your [kanban board](https://en.wikipedia.org/wiki/Kanban_board) and will be faster to implement than any other solution (giving you time to spend on the courses).
 
 ### Which programming languages should I use?
 
@@ -159,11 +157,13 @@ If you want to suggest a new resource, send a pull request adding such resource 
 
 We have a Discord server! This should be your first stop to talk with other OSSU students. [Why don't you introduce yourself right now?](https://discord.gg/wuytwK5s9h)
 
-Subscribe to our [newsletter](https://tinyletter.com/OpenSourceSocietyUniversity).
-
 You can also interact through [GitHub issues](https://github.com/open-source-society/data-science/issues).
 
-Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) and [Facebook](https://www.facebook.com/ossuniversity) profile!
+Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
+
+> **Warning:** There are a few third-party/deprecated/outdated material that you might find when searching for OSSU. We recommend you to ignore them, and only use the [OSSU Data Science Github Repo](https://github.com/ossu/data-science). Some known outdated materials are:
+>  - An unmaintained and deprecated trello board
+>  - Third-party notion templates
 
 ## Team
 
