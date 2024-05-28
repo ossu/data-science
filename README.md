@@ -44,7 +44,7 @@ It is possible to finish within about 2 years if you plan carefully and devote r
 
 Some courses can be taken in parallel, while others must be taken sequentially. All of the courses within a topic should be taken in the order listed in the curriculum. The graph below demonstrates how topics should be ordered.
 
-<img src="topic_progression_graph.jpg" width="300" alt="Topic Progression Graph" />
+<img src="./topic_progression_graph.jpg" width="300" alt="Topic Progression Graph" />
 
 ### Track your progress
 
