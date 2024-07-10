@@ -92,6 +92,8 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 
 [What is Data Science](https://www.coursera.org/learn/what-is-datascience)
 
+[Career Transition to Data Science: A Complete Guide](https://www.scaler.com/blog/career-transition-to-data-science/)
+
 ### Introduction to Computer Science
 
 _Students who already know basic programming in any language can skip this first course_
