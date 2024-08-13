@@ -134,7 +134,7 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [Calculus 1A: Differentiation](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.1x/)
 
-[Calculus 1B: Integration](https://courses.mitxonline.mit.edu/learn/course/course-v1:MITxT+18.01.2x+3T2023/home)
+[Calculus 1B: Integration](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.2x/)
 
 [Calculus 1C: Coordinate Systems & Infinite Series](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.3x/)
 
