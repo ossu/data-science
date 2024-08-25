@@ -83,7 +83,7 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 - [Single Variable Calculus](#single-variable-calculus)
 - [Linear Algebra](#linear-algebra)
 - [Multivariable Calculus](#multivariable-calculus)
-- [Statistics & Probability](#multivariable-calculus)
+- [Statistics & Probability](#statistics--probability)
 - [Data Science Tools & Methods](#data-science-tools--methods)
 - [Machine Learning/Data Mining](#machine-learningdata-mining)
 - [Final project](#final-project)
