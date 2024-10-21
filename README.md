@@ -128,7 +128,7 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [Design and Build a Data Warehouse for Business Intelligence Implementation](https://www.coursera.org/learn/data-warehouse-bi-building)
 
-[MongoDB for Developers Learning Path](https://university.mongodb.com/learning_paths/developer)
+[MongoDB for Developers Learning Path](https://learn.mongodb.com/pages/mongodb-developer-learning-paths)
 
 ### Single Variable Calculus
 
