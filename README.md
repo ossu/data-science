@@ -156,7 +156,7 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
-[Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/data-analysis-statistics/stanford-university-statistical-learning-with-python) ([Textbook](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html), [Textbook resources](https://www.statlearning.com/resources-python)) or [Statistical Learning With R by Stanford University on EdX](https://www.edx.org/learn/statistics/stanford-university-statistical-learning) ([Textbook](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.download.html), [Textbook resources](https://www.statlearning.com/resources-second-edition))
+[Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) ([Textbook](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html), [Textbook resources](https://www.statlearning.com/resources-python)) or [Statistical Learning With R by Stanford University on EdX](https://www.edx.org/learn/statistics/stanford-university-statistical-learning) ([Textbook](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.download.html), [Textbook resources](https://www.statlearning.com/resources-second-edition))
 
 ### Data Science Tools & Methods
 
